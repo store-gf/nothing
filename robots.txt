@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: DuckDuckGo
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Yahoo Slurp
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+Sitemap: https://myindianhub.in/sitemap.xml
